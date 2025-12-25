@@ -1,12 +1,12 @@
 ✋ATTENTION Make this MySQL tables
 
-chat/|
-----id|
-----chattext|
-----from_user_id|
-----to_user_id|
-----timestamp1|
-----view1|
+chat:/
+----id <br>
+----chattext <br>
+----from_user_id <br>
+----to_user_id <br>
+----timestamp1 <br>
+----view1 <br>
 ____________________________________________________
 
 product/|
