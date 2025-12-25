@@ -1,6 +1,6 @@
 ✋ATTENTION Make this MySQL tables
 
-chat:/
+chat:
 ----id <br>
 ----chattext <br>
 ----from_user_id <br>
@@ -9,25 +9,25 @@ chat:/
 ----view1 <br>
 ____________________________________________________
 
-product/|
-----id|
-----title|
-----karkard|
-----price|
-----time|
-----image|
+product:
+----id <br>
+----title <br>
+----karkard <br>
+----price <br>
+----timen<br>
+----image <br>
 _____________________________________________________
 
 
-smscode/|
-----id|
-----mobile|
-----sms_code|
+smscode:
+----id <br>
+----mobile <br>
+----sms_code <br>
 ______________________________________________________
 
 
-user/|
-----id|
-----namefull|
-----mobile|
-----password
+user:
+----id <br>
+----namefull <br>
+----mobile <br>
+----password <br>
