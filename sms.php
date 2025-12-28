@@ -20,7 +20,7 @@ $data = array(
         ),  
         array(
             "Parameter" => "name1",
-            "ParameterValue" => 'آکادمی مهارت آیولرن'
+            "ParameterValue" => ' TahaFathalizadeh '
         ) 
     ),
     "Mobile" => $mobile,
