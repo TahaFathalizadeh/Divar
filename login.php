@@ -21,8 +21,8 @@ if (isset($_POST['mobile']) && isset($_POST['code'])==false  ){
 
 
     
-    $APIKey = "wedwefweeeeeef";
-    $SecretKey = "wefwefwefwewewew";
+    $APIKey = "API_KEY";
+    $SecretKey = "SECRET_KEY";
     
        
     try {
